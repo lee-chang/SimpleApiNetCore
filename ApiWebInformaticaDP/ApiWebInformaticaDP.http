@@ -1,0 +1,6 @@
+@ApiWebInformaticaDP_HostAddress = http://localhost:5186
+
+GET {{ApiWebInformaticaDP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
